@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Agendar-Citas/static/css/main.4c798faf.chunk.css",
+    "main.js": "/Agendar-Citas/static/js/main.6c21bd56.chunk.js",
+    "main.js.map": "/Agendar-Citas/static/js/main.6c21bd56.chunk.js.map",
+    "runtime-main.js": "/Agendar-Citas/static/js/runtime-main.531a77eb.js",
+    "runtime-main.js.map": "/Agendar-Citas/static/js/runtime-main.531a77eb.js.map",
+    "static/js/2.f0e73f7f.chunk.js": "/Agendar-Citas/static/js/2.f0e73f7f.chunk.js",
+    "static/js/2.f0e73f7f.chunk.js.map": "/Agendar-Citas/static/js/2.f0e73f7f.chunk.js.map",
+    "index.html": "/Agendar-Citas/index.html",
+    "precache-manifest.3ed3baa587d56c82a15b476754a1e16b.js": "/Agendar-Citas/precache-manifest.3ed3baa587d56c82a15b476754a1e16b.js",
+    "service-worker.js": "/Agendar-Citas/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/Agendar-Citas/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.f0e73f7f.chunk.js.LICENSE.txt": "/Agendar-Citas/static/js/2.f0e73f7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531a77eb.js",
+    "static/js/2.f0e73f7f.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.6c21bd56.chunk.js"
+  ]
+}
